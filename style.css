@@ -1,17 +1,8 @@
-<!doctype html>
-<html>
-<head>
-<style>
-body { background-color: #68422e; }
-/*#523525 brown background*/
-p { 
-  color: burlywood;
+body { 
+  background-color: #68422e;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
-
+/*#523525 brown background*/
 /*old background color: 4e53a5 | old text color: skyblue. */
-
+p { color: burlywood; }
 b { color: #d07600; }
-</style>
-</head>
-</html>
