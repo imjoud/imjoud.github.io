@@ -1,7 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<style>
 body { background-color: #68422e; }
 /*#523525 brown background*/
-p { color: burlywood; style= font-family: "Comic Sans MS", cursive, sans-serif; }
+p { 
+  color: burlywood;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
 
 /*old background color: 4e53a5 | old text color: skyblue. */
 
 b { color: #d07600; }
+</style>
+</head>
+</html>
