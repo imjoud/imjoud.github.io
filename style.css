@@ -1,14 +1,14 @@
 body { 
-  background-color: slateblue;
+  background-color: #202020;
 }
 /*#523525 brown background*/
-/*old background color: 4e53a5 | old text color: skyblue. */
+/*old background color: slateblue | old text color: fffbf5  | bold text color: cornflowerblue*/
 p { 
-    color: #fffbf5;
+    color: #e3cdb2;
     font-family: "Open Sans", sans-serif;
 }
 
 b { 
-  color: cornflowerblue;
+  color: #91170c;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
