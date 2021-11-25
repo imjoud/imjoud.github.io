@@ -3,12 +3,13 @@ body {
 }
 /*#523525 brown background*/
 /*old background color: slateblue | old text color: fffbf5  | bold text color: cornflowerblue*/
+/*red bold color: #91170c*/
 p { 
     color: #e3cdb2;
     font-family: "Open Sans", sans-serif;
 }
 
 b { 
-  color: #91170c;
+  color: #5981ff;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
