@@ -1,11 +1,9 @@
 body {
-  background-color: #202020;
+  background-color: #101216;
 }
-/*#523525 brown background*/
-/*old background color: slateblue | old text color: fffbf5  | bold text color: cornflowerblue*/
-/*red bold color: #91170c*/
+/*ishtar theme: (red) bold color: #91170c | (white) old text color: #e3cdb2 | (black) old bg #202020*/
 p { 
-    color: #e3cdb2;
+    color: #c7d4d6;
     font-family: "Open Sans", sans-serif;
 }
 
