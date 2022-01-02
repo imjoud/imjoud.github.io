@@ -39,19 +39,6 @@ a:link {
   display: inline-block;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
-/*a:visited {
-  border: none;
-  color: #eeeeee !important;
-  background-color: #222222;
-  padding: 16px 30px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-  border-radius: 5px;
-  display: inline-block;
-}*/
 a:hover {
   color: #222222 !important;
   background-color: #eeeeee;
