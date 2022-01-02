@@ -39,10 +39,19 @@ a:link {
   display: inline-block;
 }
 a:visited {
-  color: #ffffff;
-  background-color: #eeeeee;
+  border: none;
+  color: #eeeeee;
+  background-color: #222222;
+  padding: 16px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 5px;
+  display: inline-block;
 }
 a:hover {
-  color: #ffffff;
+  color: #222222;
   background-color: #eeeeee;
 }
