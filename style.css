@@ -37,6 +37,7 @@ a:link {
   cursor: pointer;
   border-radius: 5px;
   display: inline-block;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
 /*a:visited {
   border: none;
@@ -54,4 +55,5 @@ a:link {
 a:hover {
   color: #222222 !important;
   background-color: #eeeeee;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
