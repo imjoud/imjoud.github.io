@@ -29,7 +29,7 @@ strong {
   border: none;
   color: #eeeeee;
   background-color: #222222;
-  padding: 10px 24px;
+  padding: 16px 30px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -37,6 +37,7 @@ strong {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
+  border-radius: 5px;
 }
 .button:hover {
   background-color: #eeeeee;
