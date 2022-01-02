@@ -23,8 +23,8 @@ bold {
 }
 a:link {
   border: none;
-  color: #df40ae !important;
-  background-color: #3841bb;
+  color: #3841bb !important;
+  background-color: #df40ae;
   padding: 16px 30px;
   text-align: center;
   text-decoration: none;
@@ -36,7 +36,7 @@ a:link {
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
 a:hover {
-  color: #3841bb !important;
-  background-color: #df40ae;
+  color: #df40ae !important;
+  background-color: #3841bb;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
