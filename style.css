@@ -24,7 +24,7 @@ bold {
 a:link {
   border: none;
   color: #3841bb !important;
-  background-color: #df40ae;
+  background-color: /*#df40ae;*/ #ffffff;
   padding: 16px 30px;
   text-align: center;
   text-decoration: none;
