@@ -27,7 +27,7 @@ strong {
 }
 a:link {
   border: none;
-  color: #eeeeee;
+  color: #eeeeee !important;
   background-color: #222222;
   padding: 16px 30px;
   text-align: center;
@@ -40,7 +40,7 @@ a:link {
 }
 a:visited {
   border: none;
-  color: #eeeeee;
+  color: #eeeeee !important;
   background-color: #222222;
   padding: 16px 30px;
   text-align: center;
@@ -52,6 +52,6 @@ a:visited {
   display: inline-block;
 }
 a:hover {
-  color: #222222;
+  color: #222222 !important;
   background-color: #eeeeee;
 }
