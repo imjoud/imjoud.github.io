@@ -35,6 +35,20 @@ a:link {
   display: inline-block;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
+a:visited {
+  border: none;
+  color: #3841bb !important;
+  background-color: #df40ae;
+  padding: 16px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 5px;
+  display: inline-block;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
 a:hover {
   color: #df40ae !important;
   background-color: #3841bb;
