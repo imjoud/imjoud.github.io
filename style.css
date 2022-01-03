@@ -9,17 +9,17 @@ p {
 }
 
 b { 
-  color: #df40ae;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #df40ae !important;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
 
 h2 {
-  color: #df40ae;
-  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #df40ae !important;
+  font-family: 'Helvetica', 'Arial', sans-serif !important;
 }
 bold { 
-  color: #ffffff;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #ffffff !important;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
 a:link {
   border: none;
