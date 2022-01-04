@@ -21,7 +21,7 @@ bold {
   color: #ffffff !important;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
-.container .a:link {
+a:link {
   border: none;
   color: #3841bb !important;
   background-color: #df40ae;
@@ -35,7 +35,7 @@ bold {
   display: inline-block;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
-.container .a:visited {
+a:visited {
   border: none;
   color: #3841bb !important;
   background-color: #df40ae;
@@ -49,17 +49,8 @@ bold {
   display: inline-block;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
-.container .a:hover {
+a:hover {
   color: #df40ae !important;
   background-color: #3841bb;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
-}
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 400px;
-}
-.container img {
-  width: 100%;
-  height: auto;
 }
