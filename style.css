@@ -25,6 +25,9 @@ bold {
   color: White !important;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
+a{
+  cursor: url("https://img.itch.zone/aW1hZ2UyL3VzZXIvMzk4MjIvODg5MzQ5LnBuZw==/35x35%23/zbPcOp.png"), auto;
+}
 a:link {
   border: none;
   color: #3841bb !important;
