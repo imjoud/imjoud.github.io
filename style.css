@@ -21,8 +21,11 @@ h3 {
   color: White !important;
   font-family: 'Helvetica', 'Arial', sans-serif;
 }
+h4 {
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
 strong { 
-  color: Red;
+  color: White;
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
 a{
